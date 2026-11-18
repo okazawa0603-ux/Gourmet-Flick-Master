@@ -15,8 +15,8 @@ body {
 .polka-bg {
   background-color: #e0f2fe;
   background-image: 
-    radial-gradient(#38bdf8 20%, transparent 20%), 
-    radial-gradient(#38bdf8 20%, transparent 20%);
+    radial-gradient(#38f85b 20%, transparent 20%), 
+    radial-gradient(#56e569 20%, transparent 20%);
   background-size: 30px 30px;
   background-position: 0 0, 15px 15px;
 }
